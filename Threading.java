@@ -1,9 +1,9 @@
-import java.util.*;
+import java.uti.*;
 
 class Threadrun extends Thread{
 	public void run() {
 		System.out.println("Thread Running");
-		System.out.println(".............,");
+		
 	}
 }
 
